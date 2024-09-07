@@ -4,7 +4,7 @@ include 'src/web_copier.php';
 include 'config/config.php';
 
 // Telegram Bot Token and API URL
-$botToken = '7405125789:AAGt-qSK-EToHiUzIDlOlpImR3ebxJKMifU';  // Replace with your bot token
+$botToken = '12345';  // Replace with your bot token
 $apiUrl = "https://api.telegram.org/bot$botToken/";
 
 // Webhook to receive user commands and URL input
